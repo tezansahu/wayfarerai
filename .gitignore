@@ -1,0 +1,4 @@
+falcon-7b-instruct/
+.vscode/
+__pycache__/
+.env
