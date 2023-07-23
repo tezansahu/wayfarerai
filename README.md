@@ -2,6 +2,8 @@
 
 🚗 **Your AI-Powered Travel Buddy** 🛣️🏕️🏖️
 
+_(Developed using [Langchain🦜️🔗](https://github.com/hwchase17/langchain), [OpenAI](https://platform.openai.com/) & [Bing Web Search](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api))_
+
 [![Wayfarer AI Demo](./assets/cli_demo.gif)](./assets/cli_demo.gif)
 
 ## What is Wayfarer AI?
