@@ -1,0 +1,7 @@
+gradio==3.38.0
+ipython==8.14.0
+-e git+https://github.com/hwchase17/langchain.git@c38965fcba42eadb3bc72754defbedef100f6ed0#egg=langchain
+notebook==7.0.0
+openai==0.27.8
+pyfiglet==0.8.post1
+termcolor==2.3.0

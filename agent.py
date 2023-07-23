@@ -56,7 +56,7 @@ class WayfarerAIAgent():
         print(self._format_reply(prompt.GREETING_MSG))
         try:
             while True:
-                user_input = input("User: ")
+                user_input = input("\nUser: ")
                 if user_input == "exit":
                     print(self._format_reply("Exiting..."))
                     break

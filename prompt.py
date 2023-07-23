@@ -21,8 +21,7 @@ GREETING_MSG = """Hello! I'm Wayfarer AI, your AI Travel Buddy. I can help you p
 
 Note:
 - To start talking about a new topic, type 'refresh'
-- To stop talking, type 'exit'
-"""
+- To stop talking, type 'exit'"""
 
 REFRESH_MESSAGES = [
     "Okay, let's talk about something else.",
