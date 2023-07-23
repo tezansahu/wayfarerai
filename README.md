@@ -28,6 +28,7 @@ To set up Wayfarer AI, follow these steps:
 
 1. Clone the repository
 2. Run `pip install -r requirements.txt`
-3. Start the CLI Tool with `python cli.py`
+3. Create your `.env` file using the template provided in `.env.example` & add your required keys
+4. Start the CLI Tool with `python cli.py`
 
 ---
